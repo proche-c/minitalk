@@ -3,7 +3,7 @@
 ## About
 
 The purpose of this project is to code a small data exchange program using UNIX signals.
-For more detailed information, look at the subject of this project.
+*For more detailed information, look at the subject of this project.*
 
 ## How to use it  
 
